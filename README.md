@@ -1,10 +1,6 @@
 <!-- ===================== BANNIÈRE ===================== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:0891b2,100:00d9ff&height=200&section=header" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=60&pause=99999&color=FFFFFF&center=true&vCenter=true&width=900&height=90&lines=THIMOUTE" />
+  <img width="100%" src="banner.png" alt="Thimoute" />
 </p>
 
 <p align="center">
@@ -50,44 +46,48 @@
 
 <table width="100%">
 <tr>
-<td width="25%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 <br>
-<img src="https://skillicons.dev/icons?i=discord" width="54" />
+<img src="https://skillicons.dev/icons?i=discord" width="58" />
 <h3>Discord Bots</h3>
-<sub>Moderation · Anti-raid<br>Tickets · Welcome<br>Logging</sub>
+<sub>Moderation · Anti-raid · Tickets · Welcome systems · Logging</sub>
 <br><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <br><br>
 </td>
-<td width="25%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 <br>
-<img src="https://skillicons.dev/icons?i=java" width="54" />
+<img src="https://skillicons.dev/icons?i=java" width="58" />
 <h3>Plugins</h3>
-<sub>Minecraft servers<br>Nova-Life RP<br>Modular · Configurable</sub>
+<sub>Minecraft servers · Nova-Life roleplay · Modular · Configurable</sub>
 <br><br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
 <br><br>
 </td>
-<td width="25%" align="center" valign="top">
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
 <br>
-<img src="https://skillicons.dev/icons?i=react" width="54" />
-<h3>Web Apps</h3>
-<sub>Admin panels<br>Dashboards<br>Client areas</sub>
+<img src="https://skillicons.dev/icons?i=react" width="58" />
+<h3>Web Applications</h3>
+<sub>Admin panels · Dashboards · Plugin libraries · Client areas</sub>
 <br><br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <br><br>
 </td>
-<td width="25%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 <br>
-<img src="https://skillicons.dev/icons?i=linux" width="54" />
+<img src="https://skillicons.dev/icons?i=linux" width="58" />
 <h3>Infrastructure</h3>
-<sub>systemd services<br>Reverse proxy<br>Deployment · Uptime</sub>
+<sub>systemd services · Reverse proxy · Deployment · Uptime</sub>
 <br><br>
-<img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
 <br><br>
 </td>
 </tr>
