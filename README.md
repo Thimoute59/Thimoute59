@@ -41,60 +41,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- ===================== PROJETS ===================== -->
-## 🚀 &nbsp;What I work on
-
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
-<br>
-<img src="https://skillicons.dev/icons?i=discord" width="58" />
-<h3>Discord Bots</h3>
-<sub>Moderation · Anti-raid · Tickets · Welcome systems · Logging</sub>
-<br><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<br><br>
-</td>
-<td width="50%" align="center" valign="top">
-<br>
-<img src="https://skillicons.dev/icons?i=java" width="58" />
-<h3>Plugins</h3>
-<sub>Minecraft servers · Nova-Life roleplay · Modular · Configurable</sub>
-<br><br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-<br><br>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-<br>
-<img src="https://skillicons.dev/icons?i=react" width="58" />
-<h3>Web Applications</h3>
-<sub>Admin panels · Dashboards · Plugin libraries · Client areas</sub>
-<br><br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<br><br>
-</td>
-<td width="50%" align="center" valign="top">
-<br>
-<img src="https://skillicons.dev/icons?i=linux" width="58" />
-<h3>Infrastructure</h3>
-<sub>systemd services · Reverse proxy · Deployment · Uptime</sub>
-<br><br>
-<img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-<br><br>
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
 <!-- ===================== STACK ===================== -->
 ## 🛠️ &nbsp;Languages and Tools
 
@@ -143,25 +89,16 @@
 <!-- ===================== LIENS ===================== -->
 ## 🔗 &nbsp;Links
 
-<table width="100%">
-<tr>
-<td width="20%" align="center">
-<a href="https://discord.gg/DbzHVqBKVR"><img src="https://img.shields.io/badge/Kroma%20Ink-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" /></a>
-</td>
-<td width="20%" align="center">
-<a href="https://discord.gg/mod-1179126151680118784"><img src="https://img.shields.io/badge/MOD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" /></a>
-</td>
-<td width="20%" align="center">
-<a href="https://plugins.modnl.me/bibliotheque"><img src="https://img.shields.io/badge/MOD%20Plugins-00D9FF?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d1117" /></a>
-</td>
-<td width="20%" align="center">
-<a href="https://guns.lol/thimoute1"><img src="https://img.shields.io/badge/guns.lol-E63946?style=for-the-badge&logo=target&logoColor=white&labelColor=0d1117" /></a>
-</td>
-<td width="20%" align="center">
-<a href="https://konect.gg/thimoute"><img src="https://img.shields.io/badge/Konect-8B5CF6?style=for-the-badge&logo=linktree&logoColor=white&labelColor=0d1117" /></a>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://discord.gg/DbzHVqBKVR"><img src="https://img.shields.io/badge/Kroma%20Ink-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://discord.gg/mod-1179126151680118784"><img src="https://img.shields.io/badge/MOD-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://plugins.modnl.me/bibliotheque"><img src="https://img.shields.io/badge/MOD%20Plugins-Library-00D9FF?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d1117" /></a>
+</p>
+
+<p align="center">
+  <a href="https://guns.lol/thimoute1"><img src="https://img.shields.io/badge/guns.lol-thimoute1-E63946?style=for-the-badge&logo=target&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://konect.gg/thimoute"><img src="https://img.shields.io/badge/Konect-thimoute-8B5CF6?style=for-the-badge&logo=linktree&logoColor=white&labelColor=0d1117" /></a>
+</p>
 
 <p align="center">
   <sub>💼 &nbsp;<b>Open to freelance work</b> : bots, plugins, websites and more.<br>
