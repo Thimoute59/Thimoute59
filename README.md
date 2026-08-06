@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://discord.gg/DbzHVqBKVR"><img src="https://img.shields.io/badge/Discord-Kroma%20Ink-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Available%20for%20freelance-00D9FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/%E2%97%8F%20Available%20for%20freelance-00D9FF?style=for-the-badge&labelColor=0d1117" />
   <img src="https://komarev.com/ghpvc/?username=Thimoute59&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
 </p>
 
@@ -17,11 +17,11 @@
 <img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 - 🇫🇷 &nbsp;Freelance developer based in **France**, 6+ years of experience
-- 🤖 &nbsp;I build **Discord bots** in Python moderation, security, verification, ect..
-- 🎮 &nbsp;I develop **plugins** for Minecraft and **Nova-Life**
+- 🤖 &nbsp;I build **Discord bots** in Python and JavaScript
+- 🎮 &nbsp;I develop **plugins** for **Minecraft** and **Nova-Life**
 - 🌐 &nbsp;I build **web apps** with React, Vite and Node.js
 - 🐧 &nbsp;I host and maintain everything on my own **Debian infrastructure**
-- 💬 &nbsp;Ask me about Discord bots, plugin architecture
+- 💬 &nbsp;Ask me about Discord bots, plugin architecture or self-hosting
 - 📫 &nbsp;Reach me on **[Discord](https://discord.gg/DbzHVqBKVR)**
 
 <br clear="right">
@@ -65,13 +65,15 @@
 <td width="50%" valign="top">
 
 ### 🤖 &nbsp;Discord Bots
-Moderation, anti-raid, Welcome, Ticket..
-Built in **Python** or **JavaScript** 
+
+Moderation, anti-raid, welcome systems, tickets and logging.
+Built in **Python** or **JavaScript**, hosted on my own servers.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 &nbsp; Plugins
+### 🎮 &nbsp;Plugins
+
 Custom systems for **Minecraft** servers (Java) and
 **Nova-Life** roleplay servers (C#). Modular,
 configurable, built to be maintained.
@@ -82,6 +84,7 @@ configurable, built to be maintained.
 <td width="50%" valign="top">
 
 ### 🌐 &nbsp;Web Applications
+
 Full-stack sites with **React + Vite + Tailwind**
 and **Node.js** backends. Admin panels, plugin
 libraries, client dashboards.
@@ -90,6 +93,7 @@ libraries, client dashboards.
 <td width="50%" valign="top">
 
 ### 🐧 &nbsp;Infrastructure
+
 Self-hosted on **Debian**. systemd services,
 Nginx reverse proxy, Cloudflare, and keeping
 everything online.
@@ -117,18 +121,18 @@ everything online.
 ## 🔗 &nbsp;Links
 
 <p align="center">
-  <a href="https://discord.gg/DbzHVqBKVR"><img src="https://img.shields.io/badge/Kroma%20Ink-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://discord.gg/mod-1179126151680118784"><img src="https://img.shields.io/badge/MOD-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://discord.gg/DbzHVqBKVR"><img src="https://img.shields.io/badge/Kroma%20Ink-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://discord.gg/mod-1179126151680118784"><img src="https://img.shields.io/badge/MOD-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" /></a>
 </p>
 
 <p align="center">
-  <a href="https://plugins.modnl.me/bibliotheque"><img src="https://img.shields.io/badge/MOD%20Plugins-Library-00D9FF?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
-  <a href="https://guns.lol/thimoute1"><img src="https://img.shields.io/badge/guns.lol-thimoute1-E63946?style=for-the-badge&logo=target&logoColor=white" /></a>
-  <a href="https://konect.gg/thimoute"><img src="https://img.shields.io/badge/Konect-thimoute-8B5CF6?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+  <a href="https://plugins.modnl.me/bibliotheque"><img src="https://img.shields.io/badge/MOD%20Plugins-Library-00D9FF?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://guns.lol/thimoute1"><img src="https://img.shields.io/badge/guns.lol-thimoute1-E63946?style=for-the-badge&logo=target&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://konect.gg/thimoute"><img src="https://img.shields.io/badge/Konect-thimoute-8B5CF6?style=for-the-badge&logo=linktree&logoColor=white&labelColor=0d1117" /></a>
 </p>
 
 <p align="center">
-  <sub>💼 &nbsp;Open to freelance work bots, plugins, websites and other<br>
+  <sub>💼 &nbsp;<b>Open to freelance work</b> — bots, plugins, websites and more.<br>
   Discord is the fastest way to reach me.</sub>
 </p>
 
