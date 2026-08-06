@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/DbzHVqBKVR"><img src="https://img.shields.io/badge/Discord-Kroma%20Ink-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://discord.gg/DbzHVqBKVR"><img src="https://img.shields.io/badge/Discord-Kroma%20Ink-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" /></a>
   <img src="https://img.shields.io/badge/%E2%97%8F%20Available%20for%20freelance-00D9FF?style=for-the-badge&labelColor=0d1117" />
   <img src="https://komarev.com/ghpvc/?username=Thimoute59&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
 </p>
@@ -14,17 +14,71 @@
 <!-- ===================== ABOUT ===================== -->
 ## 🧑‍💻 &nbsp;About me
 
-<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 - 🇫🇷 &nbsp;Freelance developer based in **France**, 6+ years of experience
 - 🤖 &nbsp;I build **Discord bots** in Python and JavaScript
 - 🎮 &nbsp;I develop **plugins** for **Minecraft** and **Nova-Life**
 - 🌐 &nbsp;I build **web apps** with React, Vite and Node.js
-- 🐧 &nbsp;I host and maintain everything on my own **Debian infrastructure**
-- 💬 &nbsp;Ask me about Discord bots, plugin architecture or self-hosting
+- 🐧 &nbsp;I host everything on my own **Debian infrastructure**
+- 💬 &nbsp;Ask me about bots, plugin architecture or self-hosting
 - 📫 &nbsp;Reach me on **[Discord](https://discord.gg/DbzHVqBKVR)**
 
 <br clear="right">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ===================== PROJETS ===================== -->
+## 🚀 &nbsp;What I work on
+
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top">
+<br>
+<img src="https://skillicons.dev/icons?i=discord" width="50" />
+<h3>Discord Bots</h3>
+<sub>Moderation · Anti-raid · Tickets<br>Welcome systems · Logging</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<br><br>
+</td>
+<td width="50%" align="center" valign="top">
+<br>
+<img src="https://skillicons.dev/icons?i=java" width="50" />
+<h3>Plugins</h3>
+<sub>Minecraft servers · Nova-Life RP<br>Modular · Configurable</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+<br><br>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<br>
+<img src="https://skillicons.dev/icons?i=react" width="50" />
+<h3>Web Applications</h3>
+<sub>Admin panels · Dashboards<br>Plugin libraries · Client areas</sub>
+<br><br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<br><br>
+</td>
+<td width="50%" align="center" valign="top">
+<br>
+<img src="https://skillicons.dev/icons?i=linux" width="50" />
+<h3>Infrastructure</h3>
+<sub>systemd services · Reverse proxy<br>Deployment · Uptime</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+<br><br>
+</td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -57,75 +111,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- ===================== PROJETS ===================== -->
-<!-- ===================== PROJETS ===================== -->
-## 🚀 &nbsp;What I work on
-
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-
-<img src="https://skillicons.dev/icons?i=discord" width="52" />
-
-### Discord Bots
-
-<sub>Moderation · Anti-raid · Tickets<br>Welcome systems · Logging</sub>
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</p>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<img src="https://skillicons.dev/icons?i=java" width="52" />
-
-### Plugins
-
-<sub>Minecraft servers · Nova-Life RP<br>Modular · Configurable</sub>
-
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-
-<img src="https://skillicons.dev/icons?i=react" width="52" />
-
-### Web Applications
-
-<sub>Admin panels · Dashboards<br>Plugin libraries · Client areas</sub>
-
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-</p>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<img src="https://skillicons.dev/icons?i=linux" width="52" />
-
-### Infrastructure
-
-<sub>systemd services · Reverse proxy<br>Deployment · Uptime</sub>
-
-<p>
-<img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-</p>
-
-</td>
-</tr>
-</table>
-
 <!-- ===================== ACTIVITÉ ===================== -->
 ## 📈 &nbsp;Activity
 
@@ -145,16 +130,16 @@
 <p align="center">
   <a href="https://discord.gg/DbzHVqBKVR"><img src="https://img.shields.io/badge/Kroma%20Ink-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" /></a>
   <a href="https://discord.gg/mod-1179126151680118784"><img src="https://img.shields.io/badge/MOD-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://plugins.modnl.me/bibliotheque"><img src="https://img.shields.io/badge/MOD%20Plugins-Library-00D9FF?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d1117" /></a>
 </p>
 
 <p align="center">
-  <a href="https://plugins.modnl.me/bibliotheque"><img src="https://img.shields.io/badge/MOD%20Plugins-Library-00D9FF?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d1117" /></a>
   <a href="https://guns.lol/thimoute1"><img src="https://img.shields.io/badge/guns.lol-thimoute1-E63946?style=for-the-badge&logo=target&logoColor=white&labelColor=0d1117" /></a>
   <a href="https://konect.gg/thimoute"><img src="https://img.shields.io/badge/Konect-thimoute-8B5CF6?style=for-the-badge&logo=linktree&logoColor=white&labelColor=0d1117" /></a>
 </p>
 
 <p align="center">
-  <sub>💼 &nbsp;<b>Open to freelance work</b> bots, plugins, websites and more.<br>
+  <sub>💼 &nbsp;<b>Open to freelance work</b> : bots, plugins, websites and more.<br>
   Discord is the fastest way to reach me.</sub>
 </p>
 
