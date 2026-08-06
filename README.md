@@ -1,256 +1,138 @@
-<!-- ====================================================== -->
-<!--                       PROFILE                          -->
-<!-- ====================================================== -->
-
-<div align="center">
-
-<img
-  src="https://github.com/Thimoute59.png"
-  width="120"
-  alt="Thimoute"
-/>
-
-<h1>Thimoute</h1>
-
-<p>
-  <strong>Freelance Software Developer</strong>
+<!-- ===================== BANNIÈRE ANIMÉE ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:0891b2,100:00d9ff&height=220&section=header&text=THIMOUTE&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Freelance%20Developer%20%C2%B7%20France&descAlignY=58&descSize=18" />
 </p>
 
-<p>
-  Desktop applications · Discord bots · Game plugins<br>
-  Web platforms · Automation · Self-hosted infrastructure
+<p align="center">
+  <a href="https://discord.gg/DbzHVqBKVR"><img src="https://img.shields.io/badge/Discord-Kroma%20Ink-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Available%20for%20freelance-00D9FF?style=for-the-badge&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Thimoute59&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
 </p>
 
-<p>
-  <a href="https://discord.gg/DbzHVqBKVR">
-    <img
-      src="https://img.shields.io/badge/Discord-Kroma%20Ink-5865F2?style=flat-square&logo=discord&logoColor=white"
-      alt="Discord"
-    />
-  </a>
-  <a href="https://konect.gg/thimoute">
-    <img
-      src="https://img.shields.io/badge/Konect-All%20my%20links-111827?style=flat-square&logo=linktree&logoColor=white"
-      alt="Konect"
-    />
-  </a>
-  <img
-    src="https://img.shields.io/badge/Location-France-111827?style=flat-square&logo=googlemaps&logoColor=white"
-    alt="France"
-  />
-  <img
-    src="https://img.shields.io/badge/Available-Freelance-16a34a?style=flat-square"
-    alt="Available for freelance"
-  />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ===================== ABOUT ===================== -->
+## 🧑‍💻 &nbsp;About me
+
+<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+- 🇫🇷 &nbsp;Freelance developer based in **France**, 6+ years of experience
+- 🤖 &nbsp;I build **Discord bots** in Python — moderation, security, verification, logging
+- 🎮 &nbsp;I develop **game plugins** for Minecraft and **Nova-Life** roleplay servers
+- 🌐 &nbsp;I build **web apps** with React, Vite and Node.js
+- 🐧 &nbsp;I host and maintain everything on my own **Debian infrastructure**
+- 💬 &nbsp;Ask me about Discord bots, plugin architecture, self-hosting, reverse proxies
+- 📫 &nbsp;Reach me on **[Discord](https://discord.gg/DbzHVqBKVR)**
+
+<br clear="right">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ===================== STACK ===================== -->
+## 🛠️ &nbsp;Languages and Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-## 👋 About me
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-I'm **Thimoute**, a freelance software developer based in France.
-
-I build complete and maintainable software solutions, from the initial architecture to deployment and infrastructure management.
-
-My main areas of work include:
-
-- Cross-platform desktop applications
-- Discord bots and community tools
-- Game plugins and custom gameplay systems
-- Web applications and administration panels
-- Automation and internal business tools
-- Linux servers and self-hosted infrastructure
-
-I focus on delivering software that is clear, reliable and maintainable in real production environments.
-
----
-
-## 🧩 Expertise
+<!-- ===================== PROJETS ===================== -->
+## 🚀 &nbsp;What I work on
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Desktop applications
-
-<img src="https://skillicons.dev/icons?i=rust,tauri,react,ts" height="38" alt="Desktop stack">
-
-Cross-platform applications built with **Rust**, **Tauri 2**, **React** and **TypeScript**.
-
-Native performance, local storage, external APIs, authentication and modern interfaces.
+### 🤖 &nbsp;Discord Bots
+Moderation, anti-raid, verification and logging systems.
+Built in **Python** with discord.py, deployed as systemd
+services behind Nginx.
 
 </td>
 <td width="50%" valign="top">
 
-### Discord bots
-
-<img src="https://skillicons.dev/icons?i=discord,py" height="38" alt="Discord stack">
-
-Custom Discord bots built for administration, moderation, support, security and automation.
-
-Slash commands, tickets, permissions, logs, databases and external integrations.
+### 🎮 &nbsp;Game Plugins
+Custom systems for **Minecraft** servers (Java) and
+**Nova-Life** roleplay servers (C#). Modular,
+configurable, built to be maintained.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### Game plugins
-
-<img src="https://skillicons.dev/icons?i=java,cs,lua" height="38" alt="Plugin stack">
-
-Configurable plugins and gameplay systems for Minecraft and roleplay platforms.
-
-Administration tools, persistent data, custom mechanics and modular configuration.
+### 🌐 &nbsp;Web Applications
+Full-stack sites with **React + Vite + Tailwind**
+and **Node.js** backends. Admin panels, plugin
+libraries, client dashboards.
 
 </td>
 <td width="50%" valign="top">
 
-### Web and backend
-
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,sqlite" height="38" alt="Web stack">
-
-Websites, dashboards, customer portals, administration panels and backend services.
-
-Modern interfaces connected to structured APIs and databases.
+### 🐧 &nbsp;Infrastructure
+Self-hosted on **Debian**. systemd services,
+Nginx reverse proxy, Cloudflare, and keeping
+everything online.
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🛠️ Technical stack
+<!-- ===================== ACTIVITÉ ===================== -->
+## 📈 &nbsp;Activity
 
-<table>
-<tr>
-<td width="130"><strong>Languages</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=rust,ts,js,py,java,cs,cpp,lua" height="36" alt="Languages">
-</td>
-</tr>
-
-<tr>
-<td><strong>Frontend</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs" height="36" alt="Frontend">
-</td>
-</tr>
-
-<tr>
-<td><strong>Desktop</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=tauri,rust" height="36" alt="Desktop">
-</td>
-</tr>
-
-<tr>
-<td><strong>Backend</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=nodejs,py,sqlite" height="36" alt="Backend">
-</td>
-</tr>
-
-<tr>
-<td><strong>Infrastructure</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=linux,debian,docker,nginx,cloudflare,bash" height="36" alt="Infrastructure">
-</td>
-</tr>
-
-<tr>
-<td><strong>Tools</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="36" alt="Tools">
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Selected work
-
-### Kroma Ink
-
-Independent software development studio focused on custom applications, tools, bots, plugins and digital projects.
-
-`Development` · `Automation` · `Desktop` · `Web` · `Infrastructure`
-
-### Desktop applications
-
-Cross-platform applications developed with **Tauri 2**, **Rust**, **React** and **TypeScript**, with a focus on performance and maintainability.
-
-### Discord systems
-
-Complete Discord solutions including ticket systems, administration tools, logging, moderation, verification and external API integrations.
-
-### Game plugins
-
-Custom plugins and server-side systems developed for Minecraft and roleplay platforms, with persistent configuration and administration interfaces.
-
----
-
-## 📊 GitHub activity
-
-<div align="center">
-
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=Thimoute59&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"
-  alt="GitHub statistics"
-/>
-
-<img
-  width="49%"
-  src="https://streak-stats.demolab.com?user=Thimoute59&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
-  alt="GitHub streak"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-  width="98%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Thimoute59&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true"
-  alt="Contribution graph"
-/>
-
-</div>
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-<p>
-  Available for freelance projects, custom software and long-term collaborations.
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thimoute59&bg_color=0d1117&color=c9d1d9&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true&radius=8" />
 </p>
 
-<a href="https://discord.gg/DbzHVqBKVR">
-  <img
-    src="https://img.shields.io/badge/Contact%20me%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-    alt="Discord"
-  />
-</a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thimoute59/Thimoute59/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-<a href="https://konect.gg/thimoute">
-  <img
-    src="https://img.shields.io/badge/View%20all%20my%20links-111827?style=for-the-badge&logo=linktree&logoColor=white"
-    alt="Konect"
-  />
-</a>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<br><br>
+<!-- ===================== LIENS ===================== -->
+## 🔗 &nbsp;Links
 
-<sub>
-For project requests, include the target platform, expected features and deadline.
-</sub>
+<p align="center">
+  <a href="https://discord.gg/DbzHVqBKVR"><img src="https://img.shields.io/badge/Kroma%20Ink-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://discord.gg/mod-1179126151680118784"><img src="https://img.shields.io/badge/MOD-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://plugins.modnl.me/bibliotheque"><img src="https://img.shields.io/badge/MOD%20Plugins-Library-00D9FF?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
+  <a href="https://guns.lol/thimoute1"><img src="https://img.shields.io/badge/guns.lol-thimoute1-E63946?style=for-the-badge&logo=target&logoColor=white" /></a>
+  <a href="https://konect.gg/thimoute"><img src="https://img.shields.io/badge/Konect-thimoute-8B5CF6?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <sub>💼 &nbsp;Open to freelance work — bots, plugins, websites and backends.<br>
+  Discord is the fastest way to reach me.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0891b2,100:0f2027&height=140&section=footer" />
+</p>
