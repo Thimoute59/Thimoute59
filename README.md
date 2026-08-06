@@ -17,11 +17,11 @@
 <img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 - 🇫🇷 &nbsp;Freelance developer based in **France**, 6+ years of experience
-- 🤖 &nbsp;I build **Discord bots** in Python — moderation, security, verification, logging
-- 🎮 &nbsp;I develop **game plugins** for Minecraft and **Nova-Life** roleplay servers
+- 🤖 &nbsp;I build **Discord bots** in Python moderation, security, verification, ect..
+- 🎮 &nbsp;I develop **plugins** for Minecraft and **Nova-Life**
 - 🌐 &nbsp;I build **web apps** with React, Vite and Node.js
 - 🐧 &nbsp;I host and maintain everything on my own **Debian infrastructure**
-- 💬 &nbsp;Ask me about Discord bots, plugin architecture, self-hosting, reverse proxies
+- 💬 &nbsp;Ask me about Discord bots, plugin architecture
 - 📫 &nbsp;Reach me on **[Discord](https://discord.gg/DbzHVqBKVR)**
 
 <br clear="right">
@@ -65,14 +65,13 @@
 <td width="50%" valign="top">
 
 ### 🤖 &nbsp;Discord Bots
-Moderation, anti-raid, verification and logging systems.
-Built in **Python** with discord.py, deployed as systemd
-services behind Nginx.
+Moderation, anti-raid, Welcome, Ticket..
+Built in **Python** or **JavaScript** 
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 &nbsp;Game Plugins
+### 🎮 &nbsp; Plugins
 Custom systems for **Minecraft** servers (Java) and
 **Nova-Life** roleplay servers (C#). Modular,
 configurable, built to be maintained.
@@ -129,7 +128,7 @@ everything online.
 </p>
 
 <p align="center">
-  <sub>💼 &nbsp;Open to freelance work — bots, plugins, websites and backends.<br>
+  <sub>💼 &nbsp;Open to freelance work bots, plugins, websites and other<br>
   Discord is the fastest way to reach me.</sub>
 </p>
 
