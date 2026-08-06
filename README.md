@@ -58,51 +58,73 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ===================== PROJETS ===================== -->
+<!-- ===================== PROJETS ===================== -->
 ## 🚀 &nbsp;What I work on
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### 🤖 &nbsp;Discord Bots
+<img src="https://skillicons.dev/icons?i=discord" width="52" />
 
-Moderation, anti-raid, welcome systems, tickets and logging.
-Built in **Python** or **JavaScript**, hosted on my own servers.
+### Discord Bots
+
+<sub>Moderation · Anti-raid · Tickets<br>Welcome systems · Logging</sub>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### 🎮 &nbsp;Plugins
+<img src="https://skillicons.dev/icons?i=java" width="52" />
 
-Custom systems for **Minecraft** servers (Java) and
-**Nova-Life** roleplay servers (C#). Modular,
-configurable, built to be maintained.
+### Plugins
+
+<sub>Minecraft servers · Nova-Life RP<br>Modular · Configurable</sub>
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+</p>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### 🌐 &nbsp;Web Applications
+<img src="https://skillicons.dev/icons?i=react" width="52" />
 
-Full-stack sites with **React + Vite + Tailwind**
-and **Node.js** backends. Admin panels, plugin
-libraries, client dashboards.
+### Web Applications
+
+<sub>Admin panels · Dashboards<br>Plugin libraries · Client areas</sub>
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+</p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### 🐧 &nbsp;Infrastructure
+<img src="https://skillicons.dev/icons?i=linux" width="52" />
 
-Self-hosted on **Debian**. systemd services,
-Nginx reverse proxy, Cloudflare, and keeping
-everything online.
+### Infrastructure
+
+<sub>systemd services · Reverse proxy<br>Deployment · Uptime</sub>
+
+<p>
+<img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+</p>
 
 </td>
 </tr>
 </table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ===================== ACTIVITÉ ===================== -->
 ## 📈 &nbsp;Activity
@@ -132,7 +154,7 @@ everything online.
 </p>
 
 <p align="center">
-  <sub>💼 &nbsp;<b>Open to freelance work</b> — bots, plugins, websites and more.<br>
+  <sub>💼 &nbsp;<b>Open to freelance work</b> bots, plugins, websites and more.<br>
   Discord is the fastest way to reach me.</sub>
 </p>
 
