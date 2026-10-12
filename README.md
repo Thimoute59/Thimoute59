@@ -73,19 +73,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- ===================== ACTIVITÉ ===================== -->
-## 📈 &nbsp;Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thimoute59&bg_color=0d1117&color=c9d1d9&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true&radius=8" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Thimoute59/Thimoute59/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
 <!-- ===================== LIENS ===================== -->
 ## 🔗 &nbsp;Links
 
